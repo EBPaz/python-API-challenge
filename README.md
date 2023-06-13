@@ -41,11 +41,10 @@ You must go to https://www.geoapify.com/ to sign up for an API key to gather dat
 
 
 ## Acknowledgments
-https://stackoverflow.com/questions/34962104/how-can-i-use-the-apply-function-for-a-single-column
-.apply function to change the Max Temp to Fahrenheit from Kelvin
-
-linear regression equation taken from this example:
+I found a Github user, Poonam-ux, and reviewed his WeatherPy project to find the linear regression equation for the weather plots. This is the link to his Github:
 https://github.com/poonam-ux/Python_API_WeatherPy_VacationPy/blob/main/WeatherPy/WeatherPy.ipynb
 
+To copy my dataframe in VacationPy, I used this website to learn about the pandas copy function:
 https://www.geeksforgeeks.org/python-pandas-dataframe-copy-function/
-to find the pandas copy function
+
+I worked with tutor, Jesse Wright, to comfirm my loop to find hotels in VacationPy. It turned out my code was correct, I just had too many spaces in my f-string filter and bias parameters. 
